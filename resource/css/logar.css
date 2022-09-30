@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    transition:0.3s ease;
+    text-align: center;
+}
+form {
+    text-align: center;
+}
+input {
+    margin-top: 2%;
+}
+.enviar {
+    height: 5%;
+    width: 13%;
+}
